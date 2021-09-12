@@ -1,2 +1,2 @@
-# kodecampBonusTask
-Project give by kodecamp,
+# bonusTask
+Bonus task for kodecamp.
